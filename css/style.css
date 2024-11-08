@@ -185,20 +185,31 @@ nav ul a.active {
   color: #404bbf;
 }
 
-.first-section {
-  background-color: #2e2f42;
-}
-/*.second-section h3 {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
+.first-section-titles {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: #ffffff;
 }
 
-.second-section p {
-  letter-spacing: 0.02em;
-}*/
+.first-section-buttons {
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+
+.first-section-buttons:hover {
+  background-color: #404bbf;
+}
+
+.first-section-buttons:hover {
+  background-color: #404bbf;
+}
 
 .second-section-titles {
   font-weight: 500;
@@ -214,29 +225,6 @@ nav ul a.active {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
-/*.third-section h2 {
-  font-size: 36px;
-  line-height: 1.11;
-  text-align: center;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-  color: #2e2f42;
-  background-color: #f4f4fd;
-}
-
-.third-section h3 {
-  background-color: #ffffff;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.third-section p {
-  font-size: 16px;
-  letter-spacing: 0.02em;
-}*/
 
 .third-section-title {
   font-size: 36px;
@@ -256,8 +244,8 @@ nav ul a.active {
 }
 
 .team-cards-aboute {
+  letter-spacing: 0.02em;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02em;
   color: #434455;
 }
