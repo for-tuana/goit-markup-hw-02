@@ -15,6 +15,17 @@ h3 {
   letter-spacing: 2%;
   align-items: center;
 }
+.title {
+  font: size 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+}
+
+/*.service-button {
+
+}*/
+
 h1 {
   color: white;
 }
@@ -38,6 +49,9 @@ p {
 
 button {
   background-color: #4d5ae5;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   color: white;
   width: 169px;
   height: 56px;
@@ -66,7 +80,46 @@ button:hover {
   background-color: #404bbf;
 }
 
-address a {
+nav span {
+  color: #4d5ae5;
+}
+
+.logo-header {
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.half-logo {
+  color: #2e2f42;
+}
+
+nav ul a {
+  color: #2e2f42;
+  width: 48px;
+  height: 24px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+nav ul a:hover {
+  color: #404bbf;
+}
+
+nav ul a.active {
+  color: #404bbf;
+  text-decoration: underline;
+}
+
+.address {
+  font-style: normal;
   color: #434455;
   width: 153px;
   height: 24px;
@@ -76,45 +129,8 @@ address a {
   letter-spacing: 2%;
 }
 
-address a:hover {
+.address:hover {
   color: #404bbf;
-}
-
-nav span {
-  color: #4d5ae5;
-}
-
-.logo,
-.logo-two {
-  font-family: "Raleway", sans-serif;
-  size: 18px;
-  line-height: 1.7;
-  letter-spacing: 3%;
-}
-.logo {
-  color: #2e2f42;
-}
-
-.logo-two {
-  color: #f4f4fd;
-}
-nav ul a {
-  color: #2e2f42;
-  width: 48px;
-  height: 24px;
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  size: 16px;
-  line-height: 1.5;
-  letter-spacing: 2%;
-}
-
-nav ul a:hover {
-  color: #404bbf;
-}
-
-nav ul a.active {
-  text-decoration: underline;
 }
 
 #First-Section {
