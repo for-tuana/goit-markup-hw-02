@@ -247,7 +247,7 @@ body {
   color: #2e2f42;
 }
 
-.team-cards-aboute {
+.team-cards-about {
   letter-spacing: 0.02em;
   font-size: 16px;
   line-height: 1.5;
@@ -286,6 +286,10 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+}
+
+.footer-logo-half {
+  color: #2e2f42;
 }
 
 .footer-about {
