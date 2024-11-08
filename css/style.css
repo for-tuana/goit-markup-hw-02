@@ -1,9 +1,4 @@
-/*body {
-  font-family: "Roboto", sans-serif;
-  color: #434455;
-  background-color: white;
-}
-footer {
+/*footer {
   background-color: #2e2f42;
   width: 1440px;
   height: 312px;
@@ -131,6 +126,12 @@ nav ul a.active {
   color: #404bbf;
   text-decoration: underline;
 }*/
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: white;
+}
 
 .logo-header {
   color: #4d5ae5;
@@ -287,11 +288,8 @@ nav ul a.active {
   color: #4d5ae5;
 }
 
-.footer-logo-half {
-  color: #2e2f42;
-}
-
 .footer-about {
   color: #f4f4fd;
   letter-spacing: 0.02em;
+  line-height: 1.5;
 }
