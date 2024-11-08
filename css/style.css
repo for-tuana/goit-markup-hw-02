@@ -201,13 +201,14 @@ nav ul a.active {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  cursor: pointer;
 }
 
 .first-section-buttons:hover {
   background-color: #404bbf;
 }
 
-.first-section-buttons:hover {
+.first-section-buttons:focus {
   background-color: #404bbf;
 }
 
