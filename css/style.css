@@ -1,4 +1,4 @@
-body {
+/*body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: white;
@@ -24,7 +24,7 @@ h3 {
 
 /*.service-button {
 
-}*/
+}
 
 h1 {
   color: white;
@@ -45,7 +45,7 @@ p {
   size: 16px;
   line-height: 1.5;
   letter-spacing: 2%;
-}
+}*/
 
 /*button {
   background-color: #4d5ae5;
@@ -67,7 +67,7 @@ p {
   align-items: center;
 }*/
 
-.service-button {
+/*.service-button {
   background-color: #4d5ae5;
   font-weight: 500;
   line-height: 1.5;
@@ -93,9 +93,9 @@ p {
 
 .service-button:active {
   background-color: #404bbf;
-}
+}*/
 
-a {
+/*a {
   text-decoration: none;
 }
 
@@ -104,27 +104,13 @@ ul {
   padding-left: 0;
 }
 
-/*button:hover {
+button:hover {
   background-color: #404bbf;
-}*/
+}
 
 nav span {
   color: #4d5ae5;
-}
-
-.logo-header {
-  color: #4d5ae5;
-  font-family: "Raleway", sans-serif;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-}
-
-.half-logo {
-  color: #2e2f42;
-}
+}*/
 
 /*nav ul a {
   color: #2e2f42;
@@ -146,6 +132,19 @@ nav ul a.active {
   text-decoration: underline;
 }*/
 
+.logo-header {
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.header-logo-half {
+  color: #2e2f42;
+}
 .nav {
   color: #2e2f42;
   width: 48px;
@@ -276,4 +275,23 @@ nav ul a.active {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.footer-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.footer-logo-half {
+  color: #2e2f42;
+}
+
+.footer-about {
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
 }
