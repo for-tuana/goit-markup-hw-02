@@ -91,6 +91,10 @@ p {
   background-color: #404bbf;
 }
 
+.service-button:active {
+  background-color: #404bbf;
+}
+
 a {
   text-decoration: none;
 }
@@ -173,11 +177,11 @@ nav ul a.active {
   letter-spacing: 0.02em;
 }
 
-.address:hover {
+.address-info :hover {
   color: #404bbf;
 }
 
-.address:active {
+.address-info :active {
   color: #404bbf;
 }
 
