@@ -232,7 +232,7 @@ nav ul a.active {
   color: #2e2f42;
 }
 
-.team-card-one-title {
+.team-cards-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -240,37 +240,7 @@ nav ul a.active {
   color: #2e2f42;
 }
 
-.team-card-one-about {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.team-card-two-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.team-card-two-about {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.team-card-three-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.team-card-three-about {
+.team-cards-aboute {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
