@@ -161,13 +161,16 @@ nav ul a.active {
   color: #404bbf;
 }
 
-.nav:active {
+.nav:focus {
   color: #404bbf;
   text-decoration: underline;
 }
 
-.address-info {
+.address {
   font-style: normal;
+}
+
+.address-info {
   color: #434455;
   width: 153px;
   height: 24px;
@@ -177,11 +180,11 @@ nav ul a.active {
   letter-spacing: 0.02em;
 }
 
-.address-info :hover {
+.address-info:hover {
   color: #404bbf;
 }
 
-.address-info :active {
+.address-info:active {
   color: #404bbf;
 }
 
